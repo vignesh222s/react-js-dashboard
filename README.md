@@ -1,6 +1,11 @@
 <h3> react js dashboard setup and forms</h3>
-![open](https://user-images.githubusercontent.com/52827001/61870121-f0694a80-aefa-11e9-8a2b-ac127b0db793.PNG)
-![open](https://user-images.githubusercontent.com/52827001/61870126-f5c69500-aefa-11e9-8696-b7c4527d19e1.PNG)
+
+!<h3><b>Open<b><h3>(https://user-images.githubusercontent.com/52827001/61870121-f0694a80-aefa-11e9-8a2b-ac127b0db793.PNG)
+  
+!<h3><b>Open<b><h3>(https://user-images.githubusercontent.com/52827001/61870126-f5c69500-aefa-11e9-8696-b7c4527d19e1.PNG)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
