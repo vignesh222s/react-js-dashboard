@@ -1,0 +1,28 @@
+ 
+.vendorform .ant-row.ant-form-item {
+  margin-bottom: 5px;
+}
+.ant-form button{
+ margin:10px
+}
+.vendorform .vendorsubmit{
+  text-align: center;
+  width:100%;
+  margin-top:50px
+}
+
+.ant-form  fieldset{ 
+  border: 1px solid red;
+    border-radius: 10px;
+    padding: 20px;
+}
+.ant-form legend{
+    border: 1px solid red;
+    margin-left: 20px;
+    background: orange;
+    border-radius: 7px;
+    padding: 0px 20px;
+    width:auto;
+}
+
+.vendorform .ant-select-selection__placeholder { color: #e6570c;}

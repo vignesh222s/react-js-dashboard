@@ -1,0 +1,77 @@
+#ip1{
+
+    font-style:italic;
+    font-weight: bold;
+    width:100%;
+  }
+  .form-control.ip2 {
+    border-radius: 10px;
+    background: #DFDFDF;
+    border: 2px solid #BBBBBB;
+      
+}
+
+.ip3 {
+    border-radius: 10px;
+    background: #DFDFDF;
+    border: 2px solid #BBBBBB;
+      
+}
+
+.bold{
+    font-weight: bold;   
+}
+
+input::-webkit-input-placeholder {
+    color: #DB5120 !important;
+    } 
+    #ip4{
+        border-radius: 10px;
+        background: #DFDFDF;
+        border: 2px solid #BBBBBB;
+        color: #DB5120 !important;
+        width: 90px;
+        height: 35px;   
+        text-align: center;
+        margin: 0 auto; 
+        
+    }
+    .ant-form  fieldset{ 
+        border: 1px solid red;
+          border-radius: 10px;
+          padding: 20px;
+      }
+      .ant-form fieldset legend{
+          border: 1px solid red;
+          margin-left: 20px;
+          background: orange;
+          border-radius: 7px;
+          padding: 0px 20px;
+        width:auto;
+      }
+     .AddProductForm .ant-form-item-label{
+         line-height: 0px
+         
+     }
+     .AddProductForm .ant-row.ant-form-item {
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 3px;
+    }
+    .AddProductForm.ant-modal-body {
+        padding: 0px;
+        line-height: 0px;
+        font-size: 1px;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .AddProductForm .ant-form-item-control {
+        line-height: 0px;
+    }
+    .ant-modal-footer{
+        padding: 0
+    }.ant-form-item-control {
+        line-height: 0px;
+        position: relative;}
