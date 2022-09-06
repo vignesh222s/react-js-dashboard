@@ -9,7 +9,7 @@ class Home extends Component {
                 <div className="container-fluid">
                     <BreadCrumb parentLink="#" parentTitle="Dashboard" leaf="My Dashboard" />
                     <div className="main-body">
-                        <h2>Welcome To Dashboard</h2>
+                        <h2>welcome To Dashboard</h2>
                     </div>
                 </div>
             </div>
